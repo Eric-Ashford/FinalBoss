@@ -1,0 +1,4 @@
+﻿  Source.cpp
+e:\finalbossforclass\finalboss\finalboss\source.cpp(89): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  FinalBoss.vcxproj -> E:\FinalBossForClass\FinalBoss\Debug\FinalBoss.exe
+  FinalBoss.vcxproj -> E:\FinalBossForClass\FinalBoss\Debug\FinalBoss.pdb (Partial PDB)
